@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 import javax.servlet.annotation.WebListener;
 import javax.servlet.annotation.WebServlet;
 
-@Configuration
+//@Configuration
 @ServletComponentScan
 public class AppConfig1 {
 
