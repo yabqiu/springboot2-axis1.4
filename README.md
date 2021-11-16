@@ -49,3 +49,7 @@ we'll see the HTTP interaction -- request and response information.
 1. Instance Web Service (*.jws) is not supported.
 
 2. `/SOAPMonitor` is no longer supported since it's a JavaApplet which is deprecated/remove from newer JDKs.
+
+#### Blog Links
+1. [SpringBoot2 应用 Axis 1.4 开发 WebService](https://yanbin.blog/springboot2-develop-axis-1-4-webservice/)
+2. [应用 Axis 1.4 开发 WebService](https://yanbin.blog/axis-1-4-develop-webservice/)
